@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bassen Fahmy</h1>
+<h1 align="center">Hi 👋, I'm Bassem Fahmy</h1>
 <h3 align="center">A passionate android developer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/bassemfahmy94" target="blank"><img src="https://img.shields.io/twitter/follow/bassemfahmy94?logo=twitter&style=for-the-badge" alt="bassemfahmy94" /></a> </p>
